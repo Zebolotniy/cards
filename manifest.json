@@ -1,6 +1,6 @@
 {
-    "name": "Расписание",
-    "short_name": "Расписание",
+    "name": "Карты",
+    "short_name": "Карты",
     "lang": "ru",
     "start_url": "./",
     "display": "standalone",
